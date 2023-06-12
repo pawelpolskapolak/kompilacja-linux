@@ -1,1 +1,2 @@
-# kompilacja-linux
+# Kompilacja jądra systemu Linux
+## Stara i nowa metoda
